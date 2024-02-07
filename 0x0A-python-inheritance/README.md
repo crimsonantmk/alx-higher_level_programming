@@ -1,1 +1,1 @@
-0x1A. C - Hash tables
+0x0A-python-inheritance
